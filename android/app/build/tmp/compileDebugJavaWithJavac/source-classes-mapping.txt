@@ -1,0 +1,14 @@
+com/gbi/ReactNativeFlipper.java
+ com.souqna.ReactNativeFlipper
+ com.souqna.ReactNativeFlipper$1
+ com.souqna.ReactNativeFlipper$2
+ com.souqna.ReactNativeFlipper$2$1
+com/souqna/MainApplication.java
+ com.souqna.MainApplication
+ com.souqna.MainApplication$1
+com/souqna/MainActivity.java
+ com.souqna.MainActivity
+com/souqna/BuildConfig.java
+ com.souqna.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

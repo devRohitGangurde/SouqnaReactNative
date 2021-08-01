@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Souqna.iml" filepath="$PROJECT_DIR$/.idea/modules/Souqna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Souqna.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Souqna.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-41731501/Souqna.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-41731501/Souqna.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-21534897/Souqna.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-21534897/Souqna.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/579431539/Souqna.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/579431539/Souqna.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1922251861/Souqna.react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/-1922251861/Souqna.react-native-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1629132696/Souqna.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1629132696/Souqna.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/540027806/Souqna.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/540027806/Souqna.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1688835252/Souqna.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1688835252/Souqna.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1577056559/Souqna.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1577056559/Souqna.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/849184809/Souqna.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/849184809/Souqna.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2129672082/Souqna.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-2129672082/Souqna.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-14841788/Souqna.react-native-view-shot.iml" filepath="$PROJECT_DIR$/.idea/modules/-14841788/Souqna.react-native-view-shot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/108127387/Souqna.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/108127387/Souqna.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>
