@@ -1,413 +1,413 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:1:1-43:12
-INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:1:1-43:12
-INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:1:1-43:12
-INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:1:1-43:12
-MERGED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:1:1-43:12
-MERGED from [com.facebook.flipper:flipper:0.54.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:8:1-18:12
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/0009af925e9188b9d34c3fe02c118ecf/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/11f752d554a58f18cb78594bb6d7f29b/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
-MERGED from [androidx.multidex:multidex:2.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/0f85ce0ae800da7d8168611275a6ab90/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [:react-native-vector-icons] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-safe-area-context] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-async-storage_async-storage] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-community_masked-view] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-community_netinfo] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
-MERGED from [:react-native-fs] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
-MERGED from [:react-native-gesture-handler] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-image-picker] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
-MERGED from [:react-native-reanimated] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-screens] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-view-shot] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-webview] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
-MERGED from [com.facebook.react:react-native:0.63.4] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/6e8e03c5dcc1e1dc164131b762850654/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/647215dad2189bf7ccc8bedb88622434/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/26c27a93496e808418c6ce0af4a5e09c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/9c1469f5a2ad2b4764c3c283cf3fcf11/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [org.webkit:android-jsc:r245459] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7d02f71687500a1730672583f1fb6342/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.fresco:flipper:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/a8ef22749715e718028094cda9845094/jetified-flipper-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:stetho:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7ac865bf14b9ed86a7abba38e53cac18/jetified-stetho-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fresco:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/38592a420ff983ce565c1252ada0f04a/jetified-fresco-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7a6a432f8cd862fdee46d10b93999540/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/14c593672b5bdbb125e4442fa8acc530/jetified-drawee-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/fa4357360d4ebdacb0ffce97d7d4312c/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/0214293b7ecdb62b4375ce0dc6c8c4f8/jetified-memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/56fb48eba18fba9a7214b80e172351eb/jetified-memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7b4c17624289eda5fd7a1613d3ab72f4/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/0df2974276677258ba4757c12f3fa634/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/bb9de36e74ec02a988b284f9a2209121/jetified-imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/47618dcb3f742df408a99375cf1d72e0/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/1121475a3e7df36ec120d158585ea724/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:soloader:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/98a0d85ee94d031e855dfa65a83a57d5/jetified-soloader-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.9.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f190b6dba35b0337bc3b859a92d341a3/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
-MERGED from [com.google.android.material:material:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/49a425eb020aa8d9cffc945a2839e23d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/596b40b0ab846efe12094cf291cb6fb8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.2.1] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/3563410a805941f5da0a2714ea52c9bb/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/4535ee444820ae18ff97d0ebf60d51c6/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/3c5e939b0e6b29bdf460a7fe7fc8149e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/90a60abe22ea5e1350069da519987351/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/033c795406e41888727686d5fd780672/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/3291651d58b009a1c2860d547f248169/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.media:media:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/ad61398286308039656eb09d36755285/media-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/9bda4bd38cbbd129d40467c328b01419/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.3.2] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/870f77caa98361babb7de475f36bb8a2/core-1.3.2/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.1] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/2035fcbf20819c6859fb26bb7d8fd865/exifinterface-1.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/b81238c1dc5b20d59b0dcafc4f4027a0/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/c2b317ea70d0e20e2ad2488d992076fe/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/18765b93ee4c46f41bb1a4f0caf56779/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f32a0d6239ad601f72e9493b4c39c0c2/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/55aabb19ce510e0f34e274c3a1923b82/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/fb5e65a69b576ac546080993fe26d407/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7b69e6173655717e69f5c7f6f1302d3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/8fe2a3deec1ef3dd659aa5f55d73edd7/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/63ec36c21da49fc44a875650a5414bd0/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/e5a8e430f52d960450585fa98cdf271d/jetified-ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:1:1-43:12
+MERGED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:1:1-43:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/0009af925e9188b9d34c3fe02c118ecf/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/11f752d554a58f18cb78594bb6d7f29b/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/0f85ce0ae800da7d8168611275a6ab90/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-vector-icons] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-async-storage_async-storage] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-fs] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-gesture-handler] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-reanimated] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-view-shot] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.63.4] /home/lenovo/.gradle/caches/transforms-2/files-2.1/6e8e03c5dcc1e1dc164131b762850654/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/647215dad2189bf7ccc8bedb88622434/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/26c27a93496e808418c6ce0af4a5e09c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/9c1469f5a2ad2b4764c3c283cf3fcf11/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7d02f71687500a1730672583f1fb6342/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/a8ef22749715e718028094cda9845094/jetified-flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7ac865bf14b9ed86a7abba38e53cac18/jetified-stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/38592a420ff983ce565c1252ada0f04a/jetified-fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7a6a432f8cd862fdee46d10b93999540/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/14c593672b5bdbb125e4442fa8acc530/jetified-drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/fa4357360d4ebdacb0ffce97d7d4312c/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/0214293b7ecdb62b4375ce0dc6c8c4f8/jetified-memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/56fb48eba18fba9a7214b80e172351eb/jetified-memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7b4c17624289eda5fd7a1613d3ab72f4/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/0df2974276677258ba4757c12f3fa634/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/bb9de36e74ec02a988b284f9a2209121/jetified-imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/47618dcb3f742df408a99375cf1d72e0/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/1121475a3e7df36ec120d158585ea724/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/98a0d85ee94d031e855dfa65a83a57d5/jetified-soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f190b6dba35b0337bc3b859a92d341a3/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/49a425eb020aa8d9cffc945a2839e23d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/596b40b0ab846efe12094cf291cb6fb8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3563410a805941f5da0a2714ea52c9bb/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/4535ee444820ae18ff97d0ebf60d51c6/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3c5e939b0e6b29bdf460a7fe7fc8149e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/90a60abe22ea5e1350069da519987351/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/033c795406e41888727686d5fd780672/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3291651d58b009a1c2860d547f248169/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/ad61398286308039656eb09d36755285/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/9bda4bd38cbbd129d40467c328b01419/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /home/lenovo/.gradle/caches/transforms-2/files-2.1/870f77caa98361babb7de475f36bb8a2/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/2035fcbf20819c6859fb26bb7d8fd865/exifinterface-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/b81238c1dc5b20d59b0dcafc4f4027a0/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/c2b317ea70d0e20e2ad2488d992076fe/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/18765b93ee4c46f41bb1a4f0caf56779/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f32a0d6239ad601f72e9493b4c39c0c2/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/55aabb19ce510e0f34e274c3a1923b82/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/fb5e65a69b576ac546080993fe26d407/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7b69e6173655717e69f5c7f6f1302d3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/8fe2a3deec1ef3dd659aa5f55d73edd7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/63ec36c21da49fc44a875650a5414bd0/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e5a8e430f52d960450585fa98cdf271d/jetified-ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:2:5-25
-		INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:2:5-25
-		INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:1:1-43:12
-		INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:1:1-43:12
-		INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [com.facebook.flipper:flipper:0.54.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
-MERGED from [com.facebook.flipper:flipper:0.54.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:5:5-79
-MERGED from [:react-native-community_netinfo] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
-MERGED from [:react-native-community_netinfo] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [:react-native-community_netinfo] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-community_netinfo] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:5:22-76
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:5:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:6:5-80
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:6:22-77
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:6:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:7:5-81
-MERGED from [:react-native-fs] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
-MERGED from [:react-native-fs] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:react-native-fs] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-fs] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:7:22-78
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.CAMERA
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:8:5-65
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:8:22-62
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:8:22-62
 uses-feature#android.hardware.camera
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:10:5-12:36
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:10:5-12:36
 	android:required
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:12:9-33
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:12:9-33
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:11:9-47
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:11:9-47
 uses-feature#android.hardware.camera.front
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:13:5-15:36
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:13:5-15:36
 	android:required
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:15:9-33
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:15:9-33
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:14:9-53
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:14:9-53
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:17:5-79
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:17:5-79
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:17:22-76
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:17:22-76
 uses-feature#android.hardware.location.gps
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:18:5-66
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:18:5-66
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:18:19-63
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:18:19-63
 application
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:20:5-41:19
-MERGED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:20:5-41:19
-MERGED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:20:5-41:19
-MERGED from [:react-native-image-picker] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [:react-native-image-picker] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [:react-native-webview] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [:react-native-webview] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
-MERGED from [com.facebook.react:react-native:0.63.4] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/6e8e03c5dcc1e1dc164131b762850654/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.63.4] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/6e8e03c5dcc1e1dc164131b762850654/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.9.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f190b6dba35b0337bc3b859a92d341a3/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.9.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f190b6dba35b0337bc3b859a92d341a3/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
-MERGED from [com.google.android.material:material:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.core:core:1.3.2] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/870f77caa98361babb7de475f36bb8a2/core-1.3.2/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.3.2] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/870f77caa98361babb7de475f36bb8a2/core-1.3.2/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:20:5-41:19
+MERGED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:20:5-41:19
+MERGED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:20:5-41:19
+MERGED from [:react-native-image-picker] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.63.4] /home/lenovo/.gradle/caches/transforms-2/files-2.1/6e8e03c5dcc1e1dc164131b762850654/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /home/lenovo/.gradle/caches/transforms-2/files-2.1/6e8e03c5dcc1e1dc164131b762850654/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f190b6dba35b0337bc3b859a92d341a3/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f190b6dba35b0337bc3b859a92d341a3/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.3.2] /home/lenovo/.gradle/caches/transforms-2/files-2.1/870f77caa98361babb7de475f36bb8a2/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/lenovo/.gradle/caches/transforms-2/files-2.1/870f77caa98361babb7de475f36bb8a2/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:requestLegacyExternalStorage
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:25:9-52
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:25:9-52
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:25:9-52
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:25:9-52
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.3.2] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/870f77caa98361babb7de475f36bb8a2/core-1.3.2/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.3.2] /home/lenovo/.gradle/caches/transforms-2/files-2.1/870f77caa98361babb7de475f36bb8a2/core-1.3.2/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:24:9-41
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:24:9-41
 	tools:ignore
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml:7:75-114
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:26:9-54
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:26:9-54
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:26:9-54
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:26:9-54
 	tools:targetApi
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml:7:54-74
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:23:9-43
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:23:9-43
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:23:9-43
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:23:9-43
 	android:allowBackup
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:22:9-36
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:22:9-36
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:22:9-36
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:22:9-36
 	android:theme
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:27:9-40
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:27:9-40
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:27:9-40
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:27:9-40
 	android:usesCleartextTraffic
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:28:9-44
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:28:9-44
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:21:9-40
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:21:9-40
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:21:9-40
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:21:9-40
 activity#com.souqna.MainActivity
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:29:9-39:20
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:29:9-39:20
 	android:label
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:32:13-45
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:32:13-45
 	android:launchMode
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:33:13-44
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:33:13-44
 	android:windowSoftInputMode
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:34:13-55
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:34:13-55
 	android:configChanges
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:31:13-90
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:31:13-90
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:30:13-41
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:30:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:35:13-38:29
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:35:13-38:29
 action#android.intent.action.MAIN
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:36:17-69
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:36:25-66
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:37:17-77
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:37:27-74
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:37:27-74
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:40:9-86
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:40:9-86
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml:40:19-83
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml:40:19-83
 uses-sdk
-INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml
-MERGED from [com.facebook.flipper:flipper:0.54.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper:0.54.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/0009af925e9188b9d34c3fe02c118ecf/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/0009af925e9188b9d34c3fe02c118ecf/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/11f752d554a58f18cb78594bb6d7f29b/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/11f752d554a58f18cb78594bb6d7f29b/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [androidx.multidex:multidex:2.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/0f85ce0ae800da7d8168611275a6ab90/multidex-2.0.0/AndroidManifest.xml:20:5-43
-MERGED from [androidx.multidex:multidex:2.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/0f85ce0ae800da7d8168611275a6ab90/multidex-2.0.0/AndroidManifest.xml:20:5-43
-MERGED from [:react-native-vector-icons] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-safe-area-context] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-safe-area-context] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-async-storage_async-storage] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-async-storage_async-storage] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_masked-view] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_masked-view] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_netinfo] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_netinfo] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-fs] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-fs] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-image-picker] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-image-picker] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-screens] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-screens] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-view-shot] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-view-shot] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-webview] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-webview] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.63.4] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/6e8e03c5dcc1e1dc164131b762850654/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.63.4] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/6e8e03c5dcc1e1dc164131b762850654/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/647215dad2189bf7ccc8bedb88622434/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/647215dad2189bf7ccc8bedb88622434/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/26c27a93496e808418c6ce0af4a5e09c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/26c27a93496e808418c6ce0af4a5e09c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/9c1469f5a2ad2b4764c3c283cf3fcf11/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/9c1469f5a2ad2b4764c3c283cf3fcf11/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [org.webkit:android-jsc:r245459] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7d02f71687500a1730672583f1fb6342/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7d02f71687500a1730672583f1fb6342/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:flipper:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/a8ef22749715e718028094cda9845094/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:flipper:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/a8ef22749715e718028094cda9845094/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:stetho:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7ac865bf14b9ed86a7abba38e53cac18/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:stetho:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7ac865bf14b9ed86a7abba38e53cac18/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/38592a420ff983ce565c1252ada0f04a/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/38592a420ff983ce565c1252ada0f04a/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7a6a432f8cd862fdee46d10b93999540/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7a6a432f8cd862fdee46d10b93999540/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/14c593672b5bdbb125e4442fa8acc530/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/14c593672b5bdbb125e4442fa8acc530/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/fa4357360d4ebdacb0ffce97d7d4312c/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/fa4357360d4ebdacb0ffce97d7d4312c/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/0214293b7ecdb62b4375ce0dc6c8c4f8/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/0214293b7ecdb62b4375ce0dc6c8c4f8/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/56fb48eba18fba9a7214b80e172351eb/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/56fb48eba18fba9a7214b80e172351eb/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7b4c17624289eda5fd7a1613d3ab72f4/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7b4c17624289eda5fd7a1613d3ab72f4/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/0df2974276677258ba4757c12f3fa634/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/0df2974276677258ba4757c12f3fa634/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/bb9de36e74ec02a988b284f9a2209121/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/bb9de36e74ec02a988b284f9a2209121/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/47618dcb3f742df408a99375cf1d72e0/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/47618dcb3f742df408a99375cf1d72e0/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/1121475a3e7df36ec120d158585ea724/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/1121475a3e7df36ec120d158585ea724/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:soloader:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/98a0d85ee94d031e855dfa65a83a57d5/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:soloader:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/98a0d85ee94d031e855dfa65a83a57d5/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.9.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f190b6dba35b0337bc3b859a92d341a3/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.9.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f190b6dba35b0337bc3b859a92d341a3/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.material:material:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/49a425eb020aa8d9cffc945a2839e23d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/49a425eb020aa8d9cffc945a2839e23d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/596b40b0ab846efe12094cf291cb6fb8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/596b40b0ab846efe12094cf291cb6fb8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.1] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/3563410a805941f5da0a2714ea52c9bb/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.1] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/3563410a805941f5da0a2714ea52c9bb/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/4535ee444820ae18ff97d0ebf60d51c6/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/4535ee444820ae18ff97d0ebf60d51c6/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/3c5e939b0e6b29bdf460a7fe7fc8149e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/3c5e939b0e6b29bdf460a7fe7fc8149e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/90a60abe22ea5e1350069da519987351/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/90a60abe22ea5e1350069da519987351/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/033c795406e41888727686d5fd780672/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/033c795406e41888727686d5fd780672/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/3291651d58b009a1c2860d547f248169/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/3291651d58b009a1c2860d547f248169/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.media:media:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/ad61398286308039656eb09d36755285/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/ad61398286308039656eb09d36755285/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/9bda4bd38cbbd129d40467c328b01419/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/9bda4bd38cbbd129d40467c328b01419/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.3.2] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/870f77caa98361babb7de475f36bb8a2/core-1.3.2/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.3.2] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/870f77caa98361babb7de475f36bb8a2/core-1.3.2/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.1] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/2035fcbf20819c6859fb26bb7d8fd865/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.1] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/2035fcbf20819c6859fb26bb7d8fd865/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/b81238c1dc5b20d59b0dcafc4f4027a0/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/b81238c1dc5b20d59b0dcafc4f4027a0/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/c2b317ea70d0e20e2ad2488d992076fe/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/c2b317ea70d0e20e2ad2488d992076fe/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/18765b93ee4c46f41bb1a4f0caf56779/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/18765b93ee4c46f41bb1a4f0caf56779/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f32a0d6239ad601f72e9493b4c39c0c2/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/f32a0d6239ad601f72e9493b4c39c0c2/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/55aabb19ce510e0f34e274c3a1923b82/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/55aabb19ce510e0f34e274c3a1923b82/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/fb5e65a69b576ac546080993fe26d407/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/fb5e65a69b576ac546080993fe26d407/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7b69e6173655717e69f5c7f6f1302d3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7b69e6173655717e69f5c7f6f1302d3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/8fe2a3deec1ef3dd659aa5f55d73edd7/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/8fe2a3deec1ef3dd659aa5f55d73edd7/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/63ec36c21da49fc44a875650a5414bd0/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/63ec36c21da49fc44a875650a5414bd0/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/e5a8e430f52d960450585fa98cdf271d/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/e5a8e430f52d960450585fa98cdf271d/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
-INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml
-INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/0009af925e9188b9d34c3fe02c118ecf/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/0009af925e9188b9d34c3fe02c118ecf/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/11f752d554a58f18cb78594bb6d7f29b/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/11f752d554a58f18cb78594bb6d7f29b/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [androidx.multidex:multidex:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/0f85ce0ae800da7d8168611275a6ab90/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/0f85ce0ae800da7d8168611275a6ab90/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [:react-native-vector-icons] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fs] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fs] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-fs/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-view-shot] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-view-shot/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /home/lenovo/.gradle/caches/transforms-2/files-2.1/6e8e03c5dcc1e1dc164131b762850654/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /home/lenovo/.gradle/caches/transforms-2/files-2.1/6e8e03c5dcc1e1dc164131b762850654/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/647215dad2189bf7ccc8bedb88622434/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/647215dad2189bf7ccc8bedb88622434/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/26c27a93496e808418c6ce0af4a5e09c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/26c27a93496e808418c6ce0af4a5e09c/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/9c1469f5a2ad2b4764c3c283cf3fcf11/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/9c1469f5a2ad2b4764c3c283cf3fcf11/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7d02f71687500a1730672583f1fb6342/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7d02f71687500a1730672583f1fb6342/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/a8ef22749715e718028094cda9845094/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/a8ef22749715e718028094cda9845094/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7ac865bf14b9ed86a7abba38e53cac18/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7ac865bf14b9ed86a7abba38e53cac18/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/38592a420ff983ce565c1252ada0f04a/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/38592a420ff983ce565c1252ada0f04a/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7a6a432f8cd862fdee46d10b93999540/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7a6a432f8cd862fdee46d10b93999540/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/14c593672b5bdbb125e4442fa8acc530/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/14c593672b5bdbb125e4442fa8acc530/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/fa4357360d4ebdacb0ffce97d7d4312c/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/fa4357360d4ebdacb0ffce97d7d4312c/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/0214293b7ecdb62b4375ce0dc6c8c4f8/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/0214293b7ecdb62b4375ce0dc6c8c4f8/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/56fb48eba18fba9a7214b80e172351eb/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/56fb48eba18fba9a7214b80e172351eb/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7b4c17624289eda5fd7a1613d3ab72f4/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7b4c17624289eda5fd7a1613d3ab72f4/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/0df2974276677258ba4757c12f3fa634/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/0df2974276677258ba4757c12f3fa634/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/bb9de36e74ec02a988b284f9a2209121/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/bb9de36e74ec02a988b284f9a2209121/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/47618dcb3f742df408a99375cf1d72e0/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/47618dcb3f742df408a99375cf1d72e0/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/1121475a3e7df36ec120d158585ea724/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/1121475a3e7df36ec120d158585ea724/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/98a0d85ee94d031e855dfa65a83a57d5/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/98a0d85ee94d031e855dfa65a83a57d5/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f190b6dba35b0337bc3b859a92d341a3/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f190b6dba35b0337bc3b859a92d341a3/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/49a425eb020aa8d9cffc945a2839e23d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/49a425eb020aa8d9cffc945a2839e23d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/596b40b0ab846efe12094cf291cb6fb8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/596b40b0ab846efe12094cf291cb6fb8/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/666ad058b1d9c3d7c4bdf80afbc3e64c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/722883bbeda4a23af2c332d7342ff3d3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/939730d5a02951a4e6900dbf39441da5/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3563410a805941f5da0a2714ea52c9bb/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3563410a805941f5da0a2714ea52c9bb/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/4535ee444820ae18ff97d0ebf60d51c6/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/4535ee444820ae18ff97d0ebf60d51c6/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f76237f51a0f7e63bcb3c74d5b185ef8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/84abe344207c34d4a56c6167bf93e6d4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3c5e939b0e6b29bdf460a7fe7fc8149e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3c5e939b0e6b29bdf460a7fe7fc8149e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f2d63b2c28ee1d548ef27f10c2385caa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/90a60abe22ea5e1350069da519987351/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/90a60abe22ea5e1350069da519987351/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/8eb429c297537d6ea02c3f7824ce56bd/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/033c795406e41888727686d5fd780672/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/033c795406e41888727686d5fd780672/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/9f97f489f2a5c174c803b63b463795b0/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3291651d58b009a1c2860d547f248169/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/3291651d58b009a1c2860d547f248169/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/a9578e6bb35b0664a235fe136bea7086/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/ad61398286308039656eb09d36755285/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/ad61398286308039656eb09d36755285/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/9bda4bd38cbbd129d40467c328b01419/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/9bda4bd38cbbd129d40467c328b01419/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /home/lenovo/.gradle/caches/transforms-2/files-2.1/870f77caa98361babb7de475f36bb8a2/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/lenovo/.gradle/caches/transforms-2/files-2.1/870f77caa98361babb7de475f36bb8a2/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/2035fcbf20819c6859fb26bb7d8fd865/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.1] /home/lenovo/.gradle/caches/transforms-2/files-2.1/2035fcbf20819c6859fb26bb7d8fd865/exifinterface-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/5dbc57b58024a8f25b5db3778841ef05/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/90ecde5404179819368e2359ab771b50/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/b81238c1dc5b20d59b0dcafc4f4027a0/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/b81238c1dc5b20d59b0dcafc4f4027a0/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/c2b317ea70d0e20e2ad2488d992076fe/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/c2b317ea70d0e20e2ad2488d992076fe/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/18765b93ee4c46f41bb1a4f0caf56779/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/18765b93ee4c46f41bb1a4f0caf56779/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f32a0d6239ad601f72e9493b4c39c0c2/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/f32a0d6239ad601f72e9493b4c39c0c2/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/512febfd0468b29d551bd267612a464f/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/227916b3f0008a165e996ac0bce20467/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/55aabb19ce510e0f34e274c3a1923b82/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/55aabb19ce510e0f34e274c3a1923b82/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/fb5e65a69b576ac546080993fe26d407/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/fb5e65a69b576ac546080993fe26d407/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7b69e6173655717e69f5c7f6f1302d3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7b69e6173655717e69f5c7f6f1302d3b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/8fe2a3deec1ef3dd659aa5f55d73edd7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/8fe2a3deec1ef3dd659aa5f55d73edd7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/63ec36c21da49fc44a875650a5414bd0/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/63ec36c21da49fc44a875650a5414bd0/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e5a8e430f52d960450585fa98cdf271d/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/e5a8e430f52d960450585fa98cdf271d/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/debug/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [com.facebook.flipper:flipper:0.54.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
-MERGED from [:react-native-community_netinfo] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
-MERGED from [:react-native-community_netinfo] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+ADDED from [com.facebook.flipper:flipper:0.54.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
+MERGED from [:react-native-community_netinfo] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:react-native-community_netinfo] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
 	android:name
-		ADDED from [com.facebook.flipper:flipper:0.54.0] /home/sidhesh/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
+		ADDED from [com.facebook.flipper:flipper:0.54.0] /home/lenovo/.gradle/caches/transforms-2/files-2.1/7b4f77e334414c44f1f46faadc6b0e24/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
 provider#com.imagepicker.ImagePickerProvider
-ADDED from [:react-native-image-picker] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+ADDED from [:react-native-image-picker] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
 	android:grantUriPermissions
-		ADDED from [:react-native-image-picker] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+		ADDED from [:react-native-image-picker] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
 	android:authorities
-		ADDED from [:react-native-image-picker] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-71
+		ADDED from [:react-native-image-picker] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-71
 	android:exported
-		ADDED from [:react-native-image-picker] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+		ADDED from [:react-native-image-picker] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
 	android:name
-		ADDED from [:react-native-image-picker] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-63
+		ADDED from [:react-native-image-picker] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-63
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:react-native-image-picker] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
+ADDED from [:react-native-image-picker] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:70
 	android:resource
-		ADDED from [:react-native-image-picker] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+		ADDED from [:react-native-image-picker] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
 	android:name
-		ADDED from [:react-native-image-picker] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+		ADDED from [:react-native-image-picker] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
 provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
-ADDED from [:react-native-webview] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+ADDED from [:react-native-webview] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
 	android:grantUriPermissions
-		ADDED from [:react-native-webview] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+		ADDED from [:react-native-webview] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
 	android:authorities
-		ADDED from [:react-native-webview] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+		ADDED from [:react-native-webview] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
 	android:exported
-		ADDED from [:react-native-webview] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+		ADDED from [:react-native-webview] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
 	android:name
-		ADDED from [:react-native-webview] /home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+		ADDED from [:react-native-webview] /home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83

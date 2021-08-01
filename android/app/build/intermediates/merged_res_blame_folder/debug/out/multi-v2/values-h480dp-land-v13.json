@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+            "outputFile": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/home/sidhesh/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+                    "source": "/home/lenovo/.gradle/caches/transforms-2/files-2.1/deeb075feedbe52ffb4e36f5b698af53/material-1.1.0/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

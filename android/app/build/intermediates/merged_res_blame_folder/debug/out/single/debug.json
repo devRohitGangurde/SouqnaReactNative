@@ -1,70 +1,70 @@
 [
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/sidhesh/BackUp/Tanmay_Pro/OLXCloneExpo/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/lenovo/Rohit_workspace/Projects/DemoProjects/@ProjectRohit/SouqnaReactNative/SouqnaReactNative/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
     }
 ]

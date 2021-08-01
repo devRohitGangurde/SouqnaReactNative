@@ -73,13 +73,13 @@ const AuthStack = createStackNavigator({
     Login: {
         screen: Login,
         navigationOptions: ({ }) => ({
-            header: null
+            headerShown: false
         })
     },
     Signup: {
         screen: Signup,
         navigationOptions: ({ }) => ({
-            header: null
+            headerShown: false
         })
     },
 })
@@ -88,42 +88,42 @@ const AppStack = createStackNavigator({
     Home: {
         screen: Home,
         navigationOptions: ({ }) => ({
-            header: null,
+            headerShown: false,
             headerBackTitleVisible: false,
         })
     },
     Notification: {
         screen: Notification,
         navigationOptions: ({ }) => ({
-            header: null,
+            headerShown: false,
             headerBackTitleVisible: false,
         })
     },
     EditProfile: {
         screen: EditProfile,
         navigationOptions: ({ }) => ({
-            header: null,
+            headerShown: false,
             headerBackTitleVisible: false,
         })
     },
     ChatScreen: {
         screen: ChatScreen,
         navigationOptions: ({ }) => ({
-            header: null,
+            headerShown: false,
             headerBackTitleVisible: false,
         })
     },
     AboutUs: {
         screen: AboutUs,
         navigationOptions: ({ }) => ({
-            header: null,
+            headerShown: false,
             headerBackTitleVisible: false,
         })
     },
     TnC: {
         screen: TnC,
         navigationOptions: ({ }) => ({
-            header: null,
+            headerShown: false,
             headerBackTitleVisible: false,
         })
     },

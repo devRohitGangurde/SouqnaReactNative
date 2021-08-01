@@ -202,12 +202,13 @@ class MyAds extends Component {
                             onPress={() => {
                                 this.setState({ isFav: false })
                             }}>
-                            <Text style={{
+                            <Text
+                               underlineColor={colors.colorPrimary}
+                             style={{
                                 fontWeight: 'bold',
                                 fontSize: 22,
                                 color: colors.colorPrimary,
                                 textDecorationLine: this.state.isFav == false ? 'underline' : '',
-                                underlineColor: colors.colorPrimary
                             }}>My Ads</Text>
                         </TouchableOpacity>
 
@@ -216,12 +217,11 @@ class MyAds extends Component {
                             onPress={() => {
                                 this.setState({ isFav: true })
                             }}>
-                            <Text style={{
+                            <Text  underlineColor={colors.colorPrimary} tyle={{
                                 fontWeight: 'bold',
                                 fontSize: 22,
                                 color: colors.colorPrimary,
                                 textDecorationLine: this.state.isFav == true ? 'underline' : '',
-                                underlineColor: colors.colorPrimary
                             }}>Favourites</Text>
                         </TouchableOpacity>
                     </View>
